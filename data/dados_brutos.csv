@@ -1,0 +1,501 @@
+aluno_id,curso,semestre,situacao,cr,renda_familiar,modalidade
+1,TI,2023.2,Formado,5.0,3-5 SM,Presencial
+2,Pedagogia,2022.1,Ativo,4.63,Até 1 SM,EAD
+3,Medicina,2024.1,Evadido,7.82,Até 1 SM,Presencial
+4,Pedagogia,2023.1,Formado,8.24,3-5 SM,Presencial
+5,Pedagogia,2023.1,Evadido,4.19,Acima 5 SM,Presencial
+6,Direito,2022.1,Ativo,9.62,3-5 SM,Presencial
+7,Medicina,2023.2,Ativo,4.31,Acima 5 SM,Presencial
+8,Medicina,2023.2,Evadido,7.25,Até 1 SM,EAD
+9,Medicina,2024.1,Ativo,8.25,Até 1 SM,EAD
+10,Pedagogia,2022.1,Evadido,9.23,Acima 5 SM,Presencial
+11,TI,2023.1,Formado,8.28,Até 1 SM,Presencial
+12,Medicina,2023.2,Formado,8.81,Acima 5 SM,Presencial
+13,Pedagogia,2022.1,Ativo,6.04,1-3 SM,Presencial
+14,Direito,2023.2,Ativo,8.89,3-5 SM,Presencial
+15,TI,2023.2,Trancado,4.48,1-3 SM,Presencial
+16,Direito,2023.1,Formado,9.37,Acima 5 SM,Presencial
+17,TI,2022.2,Ativo,7.29,3-5 SM,EAD
+18,Pedagogia,2024.1,Formado,8.9,Acima 5 SM,Presencial
+19,Engenharia,2024.1,Formado,6.71,3-5 SM,Presencial
+20,TI,2023.1,Ativo,7.86,3-5 SM,EAD
+21,Direito,2023.2,Ativo,7.16,3-5 SM,Presencial
+22,Pedagogia,2022.1,Ativo,8.39,3-5 SM,Presencial
+23,TI,2023.2,Ativo,4.49,Acima 5 SM,Presencial
+24,Engenharia,2023.1,Ativo,4.36,3-5 SM,Presencial
+25,Engenharia,2024.1,Formado,5.48,3-5 SM,EAD
+26,Medicina,2023.2,Ativo,4.96,1-3 SM,Presencial
+27,Medicina,2024.1,Ativo,9.23,Até 1 SM,Presencial
+28,Direito,2022.1,Ativo,5.32,Até 1 SM,EAD
+29,TI,2024.1,Ativo,9.86,1-3 SM,EAD
+30,TI,2024.1,Formado,6.02,1-3 SM,EAD
+31,Medicina,2022.2,Ativo,5.09,Acima 5 SM,Presencial
+32,TI,2022.2,Ativo,8.74,Acima 5 SM,Presencial
+33,TI,2022.2,Evadido,7.95,Acima 5 SM,EAD
+34,Engenharia,2024.1,Ativo,6.99,1-3 SM,EAD
+35,Medicina,2023.1,Ativo,7.33,1-3 SM,Presencial
+36,Pedagogia,2024.1,Ativo,8.32,3-5 SM,Presencial
+37,Medicina,2023.1,Ativo,5.37,Acima 5 SM,Presencial
+38,Pedagogia,2023.1,Ativo,9.98,Acima 5 SM,EAD
+39,Engenharia,2022.2,Ativo,9.85,Acima 5 SM,Presencial
+40,Direito,2023.2,Ativo,7.9,Até 1 SM,Presencial
+41,TI,2022.1,Formado,5.2,3-5 SM,Presencial
+42,Engenharia,2022.2,Ativo,8.08,Acima 5 SM,Presencial
+43,TI,2022.2,Ativo,4.43,Acima 5 SM,EAD
+44,Direito,2023.2,Evadido,4.18,Acima 5 SM,Presencial
+45,Direito,2022.1,Ativo,5.55,Até 1 SM,EAD
+46,Engenharia,2024.1,Evadido,6.78,Até 1 SM,EAD
+47,Direito,2024.1,Ativo,9.21,1-3 SM,Presencial
+48,Pedagogia,2022.2,Trancado,8.36,3-5 SM,Presencial
+49,Direito,2022.1,Ativo,8.46,1-3 SM,Presencial
+50,TI,2022.2,Ativo,6.55,3-5 SM,EAD
+51,TI,2023.1,Ativo,6.08,Até 1 SM,Presencial
+52,TI,2022.2,Trancado,6.23,Acima 5 SM,Presencial
+53,TI,2022.2,Ativo,9.93,1-3 SM,EAD
+54,Pedagogia,2024.1,Ativo,4.24,Acima 5 SM,Presencial
+55,Medicina,2024.1,Ativo,9.2,1-3 SM,EAD
+56,Engenharia,2024.1,Evadido,7.47,Até 1 SM,Presencial
+57,TI,2023.1,Ativo,6.63,Até 1 SM,Presencial
+58,Direito,2024.1,Formado,8.35,Até 1 SM,Presencial
+59,TI,2022.1,Ativo,6.92,1-3 SM,EAD
+60,Direito,2023.2,Ativo,9.24,3-5 SM,Presencial
+61,Direito,2022.1,Ativo,9.4,1-3 SM,EAD
+62,TI,2022.1,Ativo,6.53,3-5 SM,EAD
+63,Pedagogia,2024.1,Ativo,5.66,1-3 SM,Presencial
+64,Direito,2023.2,Ativo,7.55,1-3 SM,EAD
+65,Direito,2023.2,Evadido,9.47,Até 1 SM,Presencial
+66,TI,2023.2,Ativo,5.26,Acima 5 SM,Presencial
+67,Direito,2023.1,Ativo,7.74,Acima 5 SM,Presencial
+68,Direito,2024.1,Ativo,7.79,3-5 SM,EAD
+69,TI,2023.2,Ativo,8.4,Acima 5 SM,Presencial
+70,TI,2023.1,Ativo,4.79,1-3 SM,Presencial
+71,Engenharia,2022.2,Ativo,8.29,1-3 SM,Presencial
+72,Pedagogia,2022.2,Ativo,9.45,Até 1 SM,Presencial
+73,Pedagogia,2023.1,Formado,5.08,Até 1 SM,Presencial
+74,Direito,2023.1,Formado,5.43,Acima 5 SM,EAD
+75,Pedagogia,2024.1,Ativo,9.83,3-5 SM,EAD
+76,Direito,2024.1,Ativo,5.09,Acima 5 SM,Presencial
+77,Engenharia,2022.2,Evadido,9.13,Acima 5 SM,EAD
+78,TI,2023.2,Ativo,6.95,Acima 5 SM,Presencial
+79,TI,2022.2,Ativo,5.48,Acima 5 SM,EAD
+80,TI,2023.2,Ativo,9.22,1-3 SM,Presencial
+81,Pedagogia,2023.2,Evadido,6.67,3-5 SM,Presencial
+82,Engenharia,2024.1,Evadido,7.09,1-3 SM,Presencial
+83,Pedagogia,2022.1,Ativo,6.16,3-5 SM,EAD
+84,Pedagogia,2022.1,Ativo,7.56,Até 1 SM,Presencial
+85,Engenharia,2023.1,Ativo,4.98,Acima 5 SM,Presencial
+86,Engenharia,2024.1,Evadido,6.35,1-3 SM,Presencial
+87,Engenharia,2023.2,Ativo,9.82,3-5 SM,Presencial
+88,Engenharia,2022.1,Ativo,5.55,Até 1 SM,Presencial
+89,TI,2023.2,Evadido,7.94,Até 1 SM,EAD
+90,Medicina,2022.1,Ativo,5.95,Acima 5 SM,EAD
+91,Medicina,2022.1,Evadido,8.64,3-5 SM,Presencial
+92,Engenharia,2022.1,Ativo,4.79,1-3 SM,EAD
+93,Medicina,2024.1,Ativo,9.82,Acima 5 SM,Presencial
+94,Medicina,2022.2,Ativo,6.72,1-3 SM,EAD
+95,Engenharia,2023.2,Evadido,5.42,Até 1 SM,EAD
+96,Medicina,2024.1,Formado,4.44,1-3 SM,Presencial
+97,Pedagogia,2024.1,Formado,5.02,1-3 SM,EAD
+98,Direito,2024.1,Ativo,7.12,Acima 5 SM,Presencial
+99,Direito,2024.1,Evadido,6.02,1-3 SM,Presencial
+100,Engenharia,2024.1,Ativo,8.97,Acima 5 SM,EAD
+101,TI,2023.1,Ativo,6.59,Até 1 SM,Presencial
+102,Engenharia,2023.2,Formado,5.49,Acima 5 SM,Presencial
+103,TI,2024.1,Ativo,7.7,Acima 5 SM,Presencial
+104,Direito,2023.2,Ativo,8.24,3-5 SM,EAD
+105,Engenharia,2023.1,Ativo,5.0,1-3 SM,Presencial
+106,Pedagogia,2023.1,Ativo,5.01,Até 1 SM,Presencial
+107,Medicina,2023.2,Ativo,4.22,Acima 5 SM,EAD
+108,TI,2022.1,Ativo,8.42,Até 1 SM,EAD
+109,Medicina,2022.2,Ativo,7.98,3-5 SM,Presencial
+110,Medicina,2022.1,Formado,6.85,1-3 SM,Presencial
+111,Engenharia,2022.1,Formado,9.07,Acima 5 SM,Presencial
+112,Medicina,2022.1,Ativo,8.83,1-3 SM,Presencial
+113,Pedagogia,2024.1,Ativo,7.51,3-5 SM,Presencial
+114,Medicina,2023.1,Ativo,9.21,3-5 SM,EAD
+115,Engenharia,2022.1,Ativo,5.24,Até 1 SM,Presencial
+116,Pedagogia,2023.1,Ativo,4.67,Acima 5 SM,Presencial
+117,Direito,2023.2,Evadido,5.62,Até 1 SM,Presencial
+118,Medicina,2022.2,Ativo,4.34,3-5 SM,EAD
+119,Engenharia,2023.2,Ativo,7.19,1-3 SM,Presencial
+120,Direito,2023.2,Ativo,9.62,Até 1 SM,EAD
+121,Direito,2024.1,Ativo,4.24,Até 1 SM,Presencial
+122,TI,2022.2,Formado,4.73,1-3 SM,Presencial
+123,Pedagogia,2023.2,Evadido,6.71,Até 1 SM,Presencial
+124,Medicina,2023.2,Ativo,9.6,1-3 SM,Presencial
+125,Engenharia,2022.2,Formado,5.9,Acima 5 SM,Presencial
+126,TI,2022.2,Ativo,7.04,1-3 SM,Presencial
+127,Pedagogia,2023.2,Formado,4.25,Acima 5 SM,Presencial
+128,TI,2022.2,Evadido,4.89,1-3 SM,EAD
+129,Pedagogia,2023.2,Ativo,9.92,3-5 SM,Presencial
+130,Pedagogia,2023.2,Ativo,9.79,3-5 SM,EAD
+131,Medicina,2024.1,Ativo,4.03,Acima 5 SM,Presencial
+132,Pedagogia,2022.1,Ativo,9.71,Acima 5 SM,Presencial
+133,TI,2023.2,Evadido,7.83,3-5 SM,Presencial
+134,Pedagogia,2023.1,Ativo,9.21,Acima 5 SM,Presencial
+135,Medicina,2022.1,Ativo,6.73,1-3 SM,Presencial
+136,Medicina,2022.1,Formado,7.09,1-3 SM,Presencial
+137,TI,2022.1,Trancado,6.93,3-5 SM,Presencial
+138,Direito,2024.1,Ativo,8.0,Até 1 SM,Presencial
+139,Direito,2023.2,Ativo,4.84,1-3 SM,Presencial
+140,Pedagogia,2024.1,Ativo,4.18,Acima 5 SM,EAD
+141,Engenharia,2023.2,Ativo,5.85,Até 1 SM,EAD
+142,Pedagogia,2024.1,Formado,8.23,Até 1 SM,EAD
+143,TI,2024.1,Ativo,5.21,1-3 SM,EAD
+144,TI,2023.1,Ativo,8.04,1-3 SM,Presencial
+145,TI,2024.1,Ativo,9.82,Até 1 SM,Presencial
+146,TI,2022.2,Ativo,4.56,Até 1 SM,EAD
+147,TI,2023.1,Evadido,8.04,3-5 SM,Presencial
+148,Medicina,2024.1,Formado,6.66,Acima 5 SM,Presencial
+149,Direito,2022.1,Ativo,9.21,3-5 SM,Presencial
+150,TI,2022.2,Ativo,5.06,1-3 SM,Presencial
+151,Engenharia,2022.2,Ativo,8.16,3-5 SM,Presencial
+152,Engenharia,2022.2,Formado,9.03,3-5 SM,EAD
+153,Engenharia,2023.1,Formado,9.67,3-5 SM,Presencial
+154,Engenharia,2024.1,Ativo,8.1,3-5 SM,Presencial
+155,Medicina,2024.1,Evadido,6.98,Acima 5 SM,EAD
+156,Engenharia,2022.1,Evadido,7.71,Acima 5 SM,Presencial
+157,TI,2022.1,Ativo,9.21,Até 1 SM,Presencial
+158,Pedagogia,2022.2,Formado,7.42,1-3 SM,Presencial
+159,Engenharia,2022.1,Ativo,4.18,3-5 SM,EAD
+160,Medicina,2023.1,Ativo,9.59,Até 1 SM,EAD
+161,Medicina,2024.1,Ativo,8.14,Até 1 SM,Presencial
+162,Engenharia,2022.2,Ativo,8.06,Até 1 SM,EAD
+163,Pedagogia,2022.1,Ativo,5.29,Acima 5 SM,Presencial
+164,Engenharia,2023.1,Evadido,7.95,3-5 SM,EAD
+165,Medicina,2023.1,Ativo,6.36,3-5 SM,EAD
+166,Direito,2022.1,Evadido,7.91,1-3 SM,EAD
+167,TI,2024.1,Ativo,4.64,3-5 SM,Presencial
+168,Medicina,2022.1,Ativo,7.95,3-5 SM,EAD
+169,Engenharia,2022.2,Ativo,10.0,Até 1 SM,EAD
+170,TI,2022.1,Ativo,4.29,1-3 SM,Presencial
+171,Engenharia,2023.1,Evadido,9.86,3-5 SM,EAD
+172,Engenharia,2022.1,Ativo,6.44,Acima 5 SM,Presencial
+173,Direito,2024.1,Ativo,9.22,3-5 SM,EAD
+174,TI,2023.2,Ativo,8.69,Até 1 SM,Presencial
+175,TI,2022.1,Evadido,7.4,Acima 5 SM,EAD
+176,Direito,2024.1,Formado,8.43,Até 1 SM,Presencial
+177,Medicina,2024.1,Evadido,9.27,3-5 SM,Presencial
+178,Engenharia,2023.1,Ativo,6.42,Acima 5 SM,Presencial
+179,Pedagogia,2024.1,Ativo,5.96,1-3 SM,Presencial
+180,Engenharia,2024.1,Ativo,8.01,1-3 SM,Presencial
+181,Engenharia,2024.1,Ativo,8.85,Acima 5 SM,Presencial
+182,Medicina,2024.1,Ativo,8.57,Acima 5 SM,Presencial
+183,Engenharia,2022.2,Ativo,8.79,Até 1 SM,Presencial
+184,Direito,2022.2,Ativo,6.61,Acima 5 SM,Presencial
+185,Direito,2023.1,Ativo,8.91,Até 1 SM,EAD
+186,TI,2022.1,Evadido,4.72,3-5 SM,Presencial
+187,Pedagogia,2024.1,Ativo,7.27,Até 1 SM,EAD
+188,Engenharia,2022.1,Ativo,4.03,Acima 5 SM,EAD
+189,Engenharia,2022.1,Evadido,5.95,Acima 5 SM,Presencial
+190,Medicina,2023.1,Ativo,6.2,3-5 SM,Presencial
+191,Direito,2024.1,Evadido,6.38,Acima 5 SM,EAD
+192,Pedagogia,2024.1,Ativo,8.17,Acima 5 SM,Presencial
+193,TI,2023.2,Ativo,6.33,1-3 SM,Presencial
+194,Direito,2022.1,Formado,6.69,1-3 SM,Presencial
+195,TI,2022.1,Evadido,5.43,3-5 SM,EAD
+196,Medicina,2022.2,Evadido,6.24,Até 1 SM,Presencial
+197,Medicina,2023.2,Ativo,5.36,1-3 SM,Presencial
+198,Engenharia,2022.2,Ativo,4.44,Até 1 SM,EAD
+199,Pedagogia,2022.2,Ativo,7.62,Acima 5 SM,EAD
+200,TI,2022.2,Ativo,8.01,1-3 SM,Presencial
+201,Direito,2023.1,Formado,7.72,3-5 SM,Presencial
+202,Medicina,2023.1,Ativo,6.78,3-5 SM,EAD
+203,Engenharia,2022.2,Trancado,6.28,3-5 SM,Presencial
+204,Engenharia,2023.2,Ativo,9.18,1-3 SM,Presencial
+205,TI,2022.1,Ativo,7.11,Até 1 SM,Presencial
+206,Medicina,2023.2,Ativo,6.88,Acima 5 SM,EAD
+207,Pedagogia,2024.1,Formado,4.15,Até 1 SM,Presencial
+208,Medicina,2023.1,Evadido,6.05,Até 1 SM,EAD
+209,TI,2022.1,Formado,6.28,Acima 5 SM,EAD
+210,TI,2022.1,Evadido,6.39,Acima 5 SM,Presencial
+211,Medicina,2024.1,Evadido,7.48,1-3 SM,Presencial
+212,TI,2024.1,Formado,7.2,1-3 SM,Presencial
+213,Medicina,2022.2,Ativo,7.65,1-3 SM,Presencial
+214,Direito,2023.1,Ativo,8.59,1-3 SM,Presencial
+215,Medicina,2023.1,Ativo,8.88,1-3 SM,EAD
+216,Medicina,2023.2,Trancado,8.31,Acima 5 SM,Presencial
+217,TI,2022.2,Formado,9.73,Até 1 SM,EAD
+218,TI,2022.2,Ativo,4.11,1-3 SM,Presencial
+219,Engenharia,2022.2,Evadido,5.17,1-3 SM,Presencial
+220,Engenharia,2022.2,Formado,4.05,Até 1 SM,Presencial
+221,Direito,2023.1,Ativo,7.88,1-3 SM,Presencial
+222,Engenharia,2023.1,Ativo,9.39,Até 1 SM,EAD
+223,Medicina,2022.2,Formado,5.46,Até 1 SM,Presencial
+224,TI,2023.2,Ativo,9.56,Acima 5 SM,Presencial
+225,Engenharia,2022.1,Evadido,4.36,3-5 SM,Presencial
+226,Engenharia,2022.1,Ativo,9.61,Acima 5 SM,Presencial
+227,Direito,2023.2,Formado,6.11,3-5 SM,Presencial
+228,Direito,2022.2,Trancado,4.61,3-5 SM,Presencial
+229,Medicina,2023.1,Formado,6.92,3-5 SM,EAD
+230,TI,2022.1,Ativo,5.54,1-3 SM,Presencial
+231,Direito,2024.1,Formado,5.71,Acima 5 SM,EAD
+232,Engenharia,2024.1,Formado,5.84,3-5 SM,Presencial
+233,TI,2023.2,Ativo,8.82,Até 1 SM,Presencial
+234,TI,2022.2,Formado,7.23,1-3 SM,Presencial
+235,Engenharia,2022.1,Ativo,5.87,Acima 5 SM,Presencial
+236,Direito,2022.2,Ativo,7.66,3-5 SM,Presencial
+237,Engenharia,2022.1,Ativo,8.3,Até 1 SM,Presencial
+238,TI,2023.2,Ativo,5.64,Acima 5 SM,Presencial
+239,Pedagogia,2023.2,Ativo,6.48,Acima 5 SM,Presencial
+240,Pedagogia,2024.1,Evadido,4.73,1-3 SM,Presencial
+241,Medicina,2022.2,Ativo,5.09,Acima 5 SM,EAD
+242,Engenharia,2024.1,Evadido,8.09,1-3 SM,Presencial
+243,Engenharia,2022.2,Ativo,5.09,3-5 SM,Presencial
+244,Medicina,2024.1,Ativo,7.15,1-3 SM,Presencial
+245,Medicina,2023.1,Ativo,8.25,Até 1 SM,Presencial
+246,Medicina,2023.1,Evadido,4.64,1-3 SM,Presencial
+247,TI,2023.1,Ativo,7.4,Até 1 SM,Presencial
+248,Engenharia,2023.1,Evadido,5.54,1-3 SM,Presencial
+249,TI,2022.1,Formado,9.78,Acima 5 SM,Presencial
+250,Medicina,2023.1,Evadido,6.9,3-5 SM,Presencial
+251,Engenharia,2023.2,Ativo,8.84,Até 1 SM,Presencial
+252,TI,2023.2,Ativo,7.3,1-3 SM,Presencial
+253,TI,2022.1,Formado,4.26,1-3 SM,Presencial
+254,Medicina,2023.1,Ativo,7.8,1-3 SM,Presencial
+255,Engenharia,2023.1,Formado,9.71,Acima 5 SM,EAD
+256,Medicina,2023.1,Ativo,7.61,Acima 5 SM,Presencial
+257,Engenharia,2024.1,Formado,8.92,Até 1 SM,Presencial
+258,Pedagogia,2022.2,Evadido,9.31,Até 1 SM,Presencial
+259,Direito,2024.1,Trancado,5.37,Acima 5 SM,EAD
+260,Direito,2022.2,Ativo,5.27,Até 1 SM,Presencial
+261,Direito,2023.1,Evadido,7.67,3-5 SM,Presencial
+262,Medicina,2023.1,Ativo,6.47,3-5 SM,Presencial
+263,Pedagogia,2024.1,Ativo,9.04,Acima 5 SM,Presencial
+264,Engenharia,2024.1,Evadido,9.4,Até 1 SM,Presencial
+265,TI,2022.2,Formado,6.12,1-3 SM,Presencial
+266,Engenharia,2023.2,Trancado,5.42,3-5 SM,EAD
+267,TI,2022.2,Evadido,8.68,Acima 5 SM,Presencial
+268,Engenharia,2024.1,Ativo,5.65,Até 1 SM,EAD
+269,Pedagogia,2024.1,Ativo,8.94,Acima 5 SM,EAD
+270,TI,2022.1,Evadido,6.54,1-3 SM,Presencial
+271,Medicina,2024.1,Ativo,8.01,3-5 SM,Presencial
+272,Engenharia,2022.1,Ativo,4.57,Acima 5 SM,Presencial
+273,Engenharia,2023.2,Ativo,7.74,Acima 5 SM,Presencial
+274,TI,2022.2,Ativo,6.71,Acima 5 SM,Presencial
+275,Medicina,2022.2,Ativo,7.52,1-3 SM,EAD
+276,Medicina,2022.1,Ativo,5.01,Acima 5 SM,EAD
+277,Pedagogia,2022.2,Ativo,8.42,1-3 SM,Presencial
+278,Medicina,2024.1,Ativo,9.18,1-3 SM,Presencial
+279,Medicina,2023.1,Trancado,5.3,1-3 SM,EAD
+280,Medicina,2022.1,Ativo,4.57,3-5 SM,EAD
+281,Direito,2022.2,Ativo,4.14,3-5 SM,EAD
+282,Pedagogia,2022.1,Evadido,7.85,Acima 5 SM,Presencial
+283,Engenharia,2022.1,Ativo,7.64,Acima 5 SM,Presencial
+284,TI,2023.1,Formado,7.28,3-5 SM,Presencial
+285,Engenharia,2024.1,Evadido,5.39,Até 1 SM,Presencial
+286,Pedagogia,2022.1,Ativo,6.35,3-5 SM,Presencial
+287,TI,2022.2,Ativo,7.57,1-3 SM,Presencial
+288,Pedagogia,2023.2,Formado,6.98,3-5 SM,Presencial
+289,Medicina,2022.1,Formado,9.93,1-3 SM,Presencial
+290,TI,2022.1,Ativo,4.82,Acima 5 SM,Presencial
+291,Medicina,2023.1,Evadido,8.17,Até 1 SM,Presencial
+292,Engenharia,2024.1,Ativo,6.43,Acima 5 SM,Presencial
+293,Engenharia,2023.2,Trancado,6.57,1-3 SM,Presencial
+294,TI,2022.2,Ativo,8.31,1-3 SM,Presencial
+295,TI,2023.2,Formado,8.15,1-3 SM,EAD
+296,Pedagogia,2022.2,Evadido,9.95,Até 1 SM,Presencial
+297,Pedagogia,2024.1,Evadido,4.77,3-5 SM,Presencial
+298,Medicina,2022.2,Ativo,4.62,Acima 5 SM,Presencial
+299,TI,2023.1,Ativo,8.35,Acima 5 SM,EAD
+300,Engenharia,2023.1,Ativo,7.47,3-5 SM,Presencial
+301,Pedagogia,2023.1,Ativo,5.64,Acima 5 SM,Presencial
+302,Pedagogia,2023.1,Ativo,4.48,Até 1 SM,Presencial
+303,Engenharia,2023.2,Evadido,4.51,Acima 5 SM,Presencial
+304,Pedagogia,2024.1,Ativo,9.37,1-3 SM,Presencial
+305,Medicina,2022.2,Ativo,5.15,3-5 SM,Presencial
+306,TI,2022.2,Trancado,5.94,Até 1 SM,EAD
+307,Engenharia,2023.1,Formado,5.36,3-5 SM,Presencial
+308,TI,2023.1,Formado,6.13,Até 1 SM,EAD
+309,Pedagogia,2022.1,Trancado,4.42,1-3 SM,EAD
+310,Pedagogia,2024.1,Ativo,7.11,3-5 SM,Presencial
+311,Engenharia,2023.2,Ativo,4.41,Acima 5 SM,EAD
+312,Medicina,2022.2,Evadido,8.8,Até 1 SM,Presencial
+313,Direito,2022.1,Evadido,5.4,3-5 SM,Presencial
+314,Engenharia,2022.1,Ativo,7.24,Acima 5 SM,Presencial
+315,Direito,2022.2,Formado,9.28,3-5 SM,Presencial
+316,Direito,2023.2,Ativo,7.91,3-5 SM,Presencial
+317,Medicina,2022.1,Ativo,7.2,3-5 SM,Presencial
+318,Direito,2022.1,Ativo,5.95,Até 1 SM,Presencial
+319,Direito,2024.1,Ativo,6.0,Acima 5 SM,Presencial
+320,Medicina,2023.2,Ativo,8.02,1-3 SM,Presencial
+321,Direito,2022.1,Ativo,9.96,Até 1 SM,Presencial
+322,Direito,2023.2,Formado,7.97,Até 1 SM,Presencial
+323,Direito,2022.2,Ativo,7.35,Até 1 SM,Presencial
+324,Engenharia,2023.1,Ativo,8.38,1-3 SM,EAD
+325,Engenharia,2022.1,Formado,6.79,Acima 5 SM,Presencial
+326,Engenharia,2024.1,Trancado,4.36,Acima 5 SM,EAD
+327,Medicina,2022.2,Formado,7.37,Acima 5 SM,Presencial
+328,Pedagogia,2023.2,Formado,9.75,3-5 SM,Presencial
+329,Direito,2022.2,Evadido,5.05,3-5 SM,Presencial
+330,Direito,2022.1,Ativo,8.14,3-5 SM,Presencial
+331,Medicina,2023.2,Ativo,5.21,1-3 SM,Presencial
+332,Direito,2023.1,Ativo,7.21,3-5 SM,EAD
+333,Engenharia,2022.2,Ativo,4.58,1-3 SM,Presencial
+334,Pedagogia,2022.1,Ativo,6.7,Acima 5 SM,EAD
+335,TI,2024.1,Evadido,8.54,3-5 SM,EAD
+336,Direito,2023.2,Ativo,6.09,3-5 SM,EAD
+337,Engenharia,2022.2,Ativo,7.99,Até 1 SM,EAD
+338,TI,2022.2,Ativo,8.77,1-3 SM,Presencial
+339,Pedagogia,2023.1,Evadido,9.56,Acima 5 SM,Presencial
+340,TI,2023.1,Ativo,5.41,Até 1 SM,Presencial
+341,Engenharia,2024.1,Formado,6.4,Até 1 SM,Presencial
+342,TI,2024.1,Ativo,4.91,Acima 5 SM,Presencial
+343,Medicina,2022.1,Ativo,9.95,Até 1 SM,EAD
+344,TI,2022.1,Ativo,9.56,1-3 SM,Presencial
+345,Direito,2024.1,Formado,7.24,1-3 SM,Presencial
+346,Direito,2024.1,Ativo,9.05,3-5 SM,Presencial
+347,Medicina,2023.2,Evadido,7.13,Até 1 SM,Presencial
+348,Engenharia,2023.1,Ativo,7.74,3-5 SM,Presencial
+349,Direito,2022.1,Ativo,4.53,Até 1 SM,EAD
+350,Pedagogia,2023.1,Formado,8.53,1-3 SM,Presencial
+351,Direito,2023.1,Evadido,4.77,1-3 SM,Presencial
+352,Direito,2024.1,Evadido,8.96,1-3 SM,Presencial
+353,Engenharia,2023.2,Formado,8.69,Até 1 SM,Presencial
+354,TI,2022.2,Formado,8.25,1-3 SM,Presencial
+355,Direito,2023.2,Evadido,4.22,Até 1 SM,Presencial
+356,Medicina,2023.2,Formado,5.82,3-5 SM,Presencial
+357,TI,2023.1,Evadido,5.58,Até 1 SM,Presencial
+358,Pedagogia,2023.2,Evadido,6.16,3-5 SM,Presencial
+359,Engenharia,2022.1,Evadido,4.53,Até 1 SM,Presencial
+360,Pedagogia,2023.1,Evadido,9.62,3-5 SM,Presencial
+361,TI,2022.1,Ativo,7.32,1-3 SM,Presencial
+362,TI,2022.2,Formado,5.83,3-5 SM,Presencial
+363,TI,2023.1,Formado,6.38,1-3 SM,EAD
+364,Pedagogia,2022.2,Ativo,6.68,1-3 SM,Presencial
+365,TI,2023.1,Formado,7.6,3-5 SM,Presencial
+366,Pedagogia,2024.1,Ativo,7.09,Até 1 SM,Presencial
+367,TI,2023.2,Ativo,9.52,Até 1 SM,Presencial
+368,Medicina,2024.1,Evadido,6.98,Acima 5 SM,Presencial
+369,TI,2022.2,Ativo,9.95,Até 1 SM,Presencial
+370,Pedagogia,2023.2,Formado,9.11,Acima 5 SM,EAD
+371,Direito,2023.1,Formado,5.25,Até 1 SM,Presencial
+372,TI,2023.2,Ativo,9.58,Até 1 SM,Presencial
+373,Direito,2022.1,Ativo,4.7,1-3 SM,Presencial
+374,Medicina,2023.2,Ativo,8.9,Acima 5 SM,Presencial
+375,Engenharia,2022.1,Evadido,6.28,Até 1 SM,Presencial
+376,Medicina,2023.2,Trancado,9.27,Acima 5 SM,Presencial
+377,TI,2022.1,Evadido,9.21,1-3 SM,EAD
+378,Direito,2022.2,Ativo,8.84,1-3 SM,Presencial
+379,Direito,2024.1,Evadido,8.74,Acima 5 SM,Presencial
+380,Pedagogia,2023.1,Ativo,5.83,1-3 SM,EAD
+381,Direito,2023.2,Evadido,4.49,3-5 SM,Presencial
+382,Pedagogia,2024.1,Ativo,6.42,3-5 SM,EAD
+383,Engenharia,2023.1,Evadido,5.04,1-3 SM,Presencial
+384,TI,2023.1,Ativo,8.17,3-5 SM,EAD
+385,Pedagogia,2022.1,Trancado,6.08,Até 1 SM,Presencial
+386,Engenharia,2022.2,Ativo,9.85,Acima 5 SM,EAD
+387,Direito,2022.2,Evadido,7.85,Até 1 SM,EAD
+388,Direito,2024.1,Formado,8.93,Acima 5 SM,Presencial
+389,Engenharia,2022.2,Ativo,4.8,1-3 SM,EAD
+390,Direito,2023.2,Formado,9.17,Até 1 SM,Presencial
+391,Engenharia,2022.2,Evadido,9.54,1-3 SM,Presencial
+392,Pedagogia,2024.1,Ativo,6.92,1-3 SM,Presencial
+393,Pedagogia,2022.2,Ativo,7.64,Acima 5 SM,Presencial
+394,Engenharia,2023.2,Evadido,8.59,Acima 5 SM,Presencial
+395,Pedagogia,2022.1,Ativo,5.05,Acima 5 SM,Presencial
+396,Pedagogia,2024.1,Ativo,7.02,Até 1 SM,Presencial
+397,Pedagogia,2022.1,Ativo,6.39,3-5 SM,EAD
+398,Medicina,2022.1,Evadido,4.88,Acima 5 SM,EAD
+399,TI,2022.1,Ativo,6.21,Acima 5 SM,Presencial
+400,Direito,2023.1,Formado,4.41,Até 1 SM,Presencial
+401,Medicina,2023.1,Trancado,4.15,Acima 5 SM,Presencial
+402,Pedagogia,2022.1,Trancado,4.81,Até 1 SM,Presencial
+403,Engenharia,2024.1,Evadido,9.78,1-3 SM,Presencial
+404,Pedagogia,2023.2,Ativo,7.3,Acima 5 SM,Presencial
+405,TI,2023.2,Evadido,9.79,Acima 5 SM,Presencial
+406,Pedagogia,2022.2,Ativo,6.59,1-3 SM,EAD
+407,Engenharia,2024.1,Ativo,5.87,1-3 SM,Presencial
+408,TI,2023.1,Ativo,7.04,1-3 SM,Presencial
+409,Pedagogia,2022.1,Ativo,6.64,Acima 5 SM,Presencial
+410,TI,2022.2,Evadido,4.63,3-5 SM,Presencial
+411,Direito,2023.2,Evadido,7.84,3-5 SM,Presencial
+412,Direito,2023.1,Ativo,5.3,3-5 SM,Presencial
+413,Pedagogia,2023.1,Ativo,7.72,Acima 5 SM,Presencial
+414,TI,2022.1,Trancado,7.9,1-3 SM,Presencial
+415,Engenharia,2023.2,Ativo,4.91,Acima 5 SM,EAD
+416,Pedagogia,2024.1,Ativo,4.37,1-3 SM,EAD
+417,Direito,2023.1,Ativo,8.68,Acima 5 SM,Presencial
+418,Direito,2022.1,Evadido,6.76,Acima 5 SM,Presencial
+419,Pedagogia,2024.1,Evadido,4.35,1-3 SM,Presencial
+420,TI,2023.2,Ativo,9.97,3-5 SM,Presencial
+421,Direito,2023.1,Ativo,4.35,1-3 SM,Presencial
+422,TI,2024.1,Evadido,8.17,Até 1 SM,Presencial
+423,Direito,2024.1,Evadido,9.9,Até 1 SM,Presencial
+424,Direito,2024.1,Ativo,5.44,1-3 SM,Presencial
+425,Medicina,2023.1,Trancado,4.85,Acima 5 SM,Presencial
+426,Direito,2023.1,Ativo,4.73,Até 1 SM,EAD
+427,Engenharia,2022.2,Ativo,5.82,Até 1 SM,EAD
+428,Pedagogia,2023.2,Formado,4.61,Acima 5 SM,EAD
+429,Pedagogia,2022.1,Ativo,8.15,Acima 5 SM,Presencial
+430,TI,2024.1,Evadido,4.37,3-5 SM,EAD
+431,Direito,2022.2,Ativo,7.06,Acima 5 SM,Presencial
+432,Engenharia,2022.1,Ativo,9.98,1-3 SM,EAD
+433,TI,2022.2,Trancado,8.88,1-3 SM,Presencial
+434,Medicina,2023.1,Ativo,7.69,3-5 SM,EAD
+435,TI,2024.1,Formado,5.84,Até 1 SM,Presencial
+436,TI,2022.1,Ativo,7.74,Até 1 SM,EAD
+437,Direito,2022.1,Ativo,7.16,Acima 5 SM,EAD
+438,Medicina,2022.1,Ativo,6.56,1-3 SM,Presencial
+439,TI,2022.1,Evadido,4.78,Até 1 SM,Presencial
+440,Engenharia,2022.1,Ativo,9.32,3-5 SM,EAD
+441,Engenharia,2022.2,Formado,6.7,3-5 SM,Presencial
+442,Pedagogia,2024.1,Ativo,5.17,1-3 SM,EAD
+443,Medicina,2023.1,Trancado,6.21,3-5 SM,Presencial
+444,Medicina,2023.1,Ativo,6.48,3-5 SM,Presencial
+445,Pedagogia,2023.1,Formado,8.97,1-3 SM,Presencial
+446,TI,2023.1,Evadido,8.4,Acima 5 SM,Presencial
+447,Medicina,2022.2,Evadido,8.62,Acima 5 SM,EAD
+448,Engenharia,2023.2,Formado,4.07,3-5 SM,Presencial
+449,Engenharia,2024.1,Evadido,6.5,Acima 5 SM,Presencial
+450,Direito,2022.1,Evadido,6.89,Acima 5 SM,Presencial
+451,Medicina,2023.2,Ativo,4.12,3-5 SM,Presencial
+452,TI,2023.1,Ativo,5.56,Acima 5 SM,EAD
+453,Pedagogia,2023.2,Formado,8.56,3-5 SM,EAD
+454,Pedagogia,2024.1,Evadido,4.82,Até 1 SM,Presencial
+455,TI,2022.1,Evadido,7.21,1-3 SM,EAD
+456,Direito,2022.1,Ativo,5.29,1-3 SM,EAD
+457,Pedagogia,2024.1,Ativo,4.07,Acima 5 SM,Presencial
+458,Medicina,2024.1,Ativo,5.45,Acima 5 SM,EAD
+459,Direito,2023.1,Evadido,9.86,Acima 5 SM,Presencial
+460,Medicina,2022.1,Ativo,8.81,1-3 SM,Presencial
+461,Engenharia,2023.2,Ativo,9.76,Até 1 SM,EAD
+462,Direito,2022.2,Ativo,6.93,Até 1 SM,Presencial
+463,Pedagogia,2022.2,Ativo,4.66,1-3 SM,EAD
+464,Direito,2024.1,Ativo,7.29,Até 1 SM,EAD
+465,Direito,2023.1,Ativo,6.73,1-3 SM,Presencial
+466,Direito,2022.2,Evadido,9.07,Até 1 SM,EAD
+467,Direito,2022.1,Ativo,4.59,3-5 SM,Presencial
+468,Medicina,2024.1,Ativo,6.93,3-5 SM,Presencial
+469,Engenharia,2023.2,Ativo,4.9,1-3 SM,Presencial
+470,TI,2024.1,Ativo,5.95,Até 1 SM,EAD
+471,Direito,2023.2,Ativo,8.42,Acima 5 SM,Presencial
+472,Pedagogia,2024.1,Ativo,6.86,Até 1 SM,Presencial
+473,Direito,2024.1,Evadido,6.26,3-5 SM,Presencial
+474,Pedagogia,2024.1,Ativo,6.37,3-5 SM,EAD
+475,Medicina,2023.2,Evadido,6.76,Até 1 SM,Presencial
+476,Pedagogia,2023.2,Formado,8.71,Até 1 SM,Presencial
+477,TI,2024.1,Evadido,9.35,Acima 5 SM,Presencial
+478,Engenharia,2022.2,Ativo,9.73,Acima 5 SM,Presencial
+479,Pedagogia,2023.1,Ativo,8.72,Até 1 SM,EAD
+480,Pedagogia,2023.1,Ativo,5.89,Até 1 SM,Presencial
+481,Engenharia,2023.1,Ativo,8.13,Até 1 SM,Presencial
+482,TI,2023.2,Trancado,6.63,Até 1 SM,EAD
+483,Direito,2023.2,Ativo,5.53,1-3 SM,Presencial
+484,Pedagogia,2022.2,Ativo,9.05,Até 1 SM,EAD
+485,Engenharia,2023.1,Evadido,4.23,Acima 5 SM,Presencial
+486,Medicina,2023.1,Evadido,9.41,3-5 SM,EAD
+487,Engenharia,2024.1,Ativo,6.77,1-3 SM,Presencial
+488,Medicina,2023.2,Ativo,7.82,Até 1 SM,Presencial
+489,TI,2023.1,Ativo,7.96,3-5 SM,EAD
+490,Direito,2022.2,Ativo,9.37,1-3 SM,EAD
+491,Engenharia,2022.2,Ativo,7.82,3-5 SM,EAD
+492,Pedagogia,2023.1,Ativo,7.68,Até 1 SM,Presencial
+493,TI,2023.2,Ativo,4.4,Até 1 SM,EAD
+494,Engenharia,2022.2,Ativo,7.11,Acima 5 SM,EAD
+495,Pedagogia,2024.1,Ativo,4.9,Até 1 SM,Presencial
+496,Engenharia,2022.2,Ativo,8.42,Até 1 SM,EAD
+497,Medicina,2022.1,Ativo,7.07,1-3 SM,EAD
+498,Engenharia,2022.1,Evadido,8.08,Acima 5 SM,Presencial
+499,Engenharia,2023.2,Formado,4.25,1-3 SM,Presencial
+500,Engenharia,2023.1,Ativo,4.51,3-5 SM,Presencial
