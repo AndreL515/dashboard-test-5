@@ -15,3 +15,11 @@ Desenvolvido com Python e Streamlit.
 - Pandas
 - Plotly
 - SQLite
+
+## Executar a dashboard
+1. Instale o necessario:
+pip install streamlit pandas plotly sqlalchemy
+3. Gere os dados aleatorios:
+python gerar_dados.py
+4. Rode o dashboard:
+streamlit run app.py
